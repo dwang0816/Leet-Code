@@ -1,5 +1,5 @@
 # Leet Code solutions
 
-1108. Defanging an IP Address
-104. Maximum Depth of Binary Tree
-136. Single Number
+1. Defanging an IP Address 1108
+2. Maximum Depth of Binary Tree 104
+3. Single Number 136
