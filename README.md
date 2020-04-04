@@ -2,3 +2,4 @@
 
 1108. Defanging an IP Address
 104. Maximum Depth of Binary Tree
+136. Single Number
