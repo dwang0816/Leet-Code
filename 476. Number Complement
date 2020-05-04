@@ -1,0 +1,17 @@
+Given a positive integer, output its complement number. The complement strategy is to flip the bits of its binary representation.
+
+Solution:
+
+var bitwiseComplement = function(N) {
+    a = N.toString(2)
+    let bin = ""
+    for(let i = 0;i<a.length;i++){
+        if(a[i] == "0"){
+            bin += "1"
+        } else {
+            bin += "0"
+        }
+    }
+    
+    return parseInt(bin, 2)
+};
