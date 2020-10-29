@@ -1,0 +1,7 @@
+var sortedSquares = function(A) {
+    let squared = []
+    for(let i = 0; i<A.length;i++){
+        squared.push(A[i]*A[i])
+    }
+    return squared.sort((a,b) => a-b)
+};
