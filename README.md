@@ -11,3 +11,4 @@
 9. Find Numbers with Even Number of Digits
 10. Squares of a Sorted Array #977
 11. Duplicate Zeros #1089
+12. Remove Element #27
