@@ -13,3 +13,4 @@
 11. Duplicate Zeros #1089
 12. Remove Element #27
 13. Remove Duplicates from Sorted Array #26
+14. Check If N and Its Double Exist
